@@ -1,0 +1,16 @@
+torch>=2.0.0
+torchaudio>=2.0.0
+torchmetrics
+librosa>=0.10.0
+soundfile
+sounddevice
+numpy
+scipy
+scikit-learn
+pyannote.audio>=3.0.0
+datasets
+webrtcvad-wheels
+matplotlib
+openai-whisper
+tqdm
+joblib

@@ -1,0 +1,17 @@
+VoiceSense Clustering Experiment
+================================
+
+Audio: data\audio\test1.m4a
+Segments: 23
+
+K-Means | K=2 | Silhouette=0.3007
+K-Means | K=3 | Silhouette=0.2019
+K-Means | K=4 | Silhouette=0.2080
+Agglomerative | K=2 | Silhouette=0.3007
+Agglomerative | K=3 | Silhouette=0.2019
+Agglomerative | K=4 | Silhouette=0.2227
+
+BEST RESULT
+Method: K-Means
+K: 2
+Silhouette: 0.3007

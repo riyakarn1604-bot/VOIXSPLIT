@@ -1,0 +1,30 @@
+VoiceSense MFCC PCA Results
+===========================
+
+Segments: 23
+Original dimensions: 40
+PCA dimensions: 2
+
+Segment 01: X=4.6728, Y=-0.3313
+Segment 02: X=3.9926, Y=0.6290
+Segment 03: X=5.3354, Y=-0.5154
+Segment 04: X=5.5857, Y=-0.2114
+Segment 05: X=5.8946, Y=-1.3360
+Segment 06: X=5.8614, Y=0.3284
+Segment 07: X=5.5438, Y=-0.2361
+Segment 08: X=4.3592, Y=-0.0966
+Segment 09: X=-3.6382, Y=-2.2823
+Segment 10: X=-3.3043, Y=-2.5397
+Segment 11: X=-3.3190, Y=0.5543
+Segment 12: X=-3.2836, Y=0.9181
+Segment 13: X=-2.7143, Y=1.4864
+Segment 14: X=-2.9484, Y=3.1809
+Segment 15: X=-4.0059, Y=1.6120
+Segment 16: X=-3.3775, Y=-0.8516
+Segment 17: X=-3.1879, Y=-2.0953
+Segment 18: X=-2.6439, Y=-2.2102
+Segment 19: X=-2.9822, Y=-5.5762
+Segment 20: X=-1.7755, Y=0.6164
+Segment 21: X=-1.5029, Y=3.8699
+Segment 22: X=-1.6849, Y=2.4515
+Segment 23: X=-0.8768, Y=2.6353

@@ -1,0 +1,16 @@
+VOXSPLIT V6 EMBEDDING EVALUATION
+=================================
+
+Test samples: 60
+Embedding dimension: 128
+Test classification accuracy: 55.00%
+
+Same-speaker mean similarity: 0.9334
+Same-speaker std: 0.0587
+
+Different-speaker mean similarity: 0.7144
+Different-speaker std: 0.1607
+
+Speaker separation: 0.2190
+Best threshold: 0.9772
+Pair classification accuracy: 98.64%

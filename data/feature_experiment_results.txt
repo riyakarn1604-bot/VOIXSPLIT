@@ -1,0 +1,36 @@
+VoiceSense Feature Experiment
+==============================
+
+MFCC
+Dimensions: 40
+Best K: 2
+Silhouette: 0.3007
+
+MFCC + Pitch
+Dimensions: 44
+Best K: 2
+Silhouette: 0.2849
+
+MFCC + Delta
+Dimensions: 80
+Best K: 2
+Silhouette: 0.1790
+
+MFCC + Delta + DeltaDelta
+Dimensions: 120
+Best K: 2
+Silhouette: 0.1380
+
+MFCC + Pitch + Energy
+Dimensions: 46
+Best K: 2
+Silhouette: 0.2850
+
+ALL FEATURES
+Dimensions: 134
+Best K: 2
+Silhouette: 0.1420
+
+BEST FEATURE SET
+MFCC
+Silhouette: 0.3007

@@ -1,0 +1,33 @@
+VoiceSense Diarization V2
+=========================
+
+Audio: data\audio\test1.m4a
+Audio duration: 36.44s
+Number of speakers: 3
+Silhouette score: 0.1244
+
+SPEAKER_00
+Segments: 5
+Speech duration: 7.50s
+9.87s - 11.37s
+12.15s - 13.65s
+15.33s - 16.83s
+17.73s - 19.23s
+19.23s - 20.73s
+
+SPEAKER_02
+Segments: 1
+Speech duration: 1.50s
+21.75s - 23.25s
+
+SPEAKER_01
+Segments: 7
+Speech duration: 10.50s
+23.25s - 24.75s
+25.71s - 27.21s
+27.21s - 28.71s
+28.71s - 30.21s
+31.56s - 33.06s
+33.06s - 34.56s
+34.56s - 36.06s
+

@@ -1,0 +1,23 @@
+VoxSplit Diarization V5
+======================
+
+Feature representation: Log-Mel
+Estimated speakers: 2
+V3 MFCC score: 0.3723
+V4 MFCC + Energy score: 0.3755
+V5 Log-Mel score: 0.2915
+V5 vs V3: -0.0808
+V5 vs V4: -0.0840
+
+SPEAKER_01
+   8.10s → 9.15s
+   9.87s → 12.12s
+   12.15s → 14.58s
+   15.33s → 16.83s
+   17.73s → 21.27s
+
+SPEAKER_00
+   21.75s → 25.68s
+   25.71s → 31.26s
+   31.56s → 36.44s
+

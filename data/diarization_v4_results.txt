@@ -1,0 +1,19 @@
+VoxSplit Diarization V4
+======================
+
+V3 baseline: 0.3723
+
+MFCC | K=2 | Silhouette=0.3723
+MFCC + DELTA | K=2 | Silhouette=0.2485
+MFCC + DELTA + DELTA2 | K=2 | Silhouette=0.1843
+MFCC + PITCH | K=2 | Silhouette=0.3564
+MFCC + ENERGY | K=2 | Silhouette=0.3755
+MFCC + SPECTRAL | K=2 | Silhouette=0.3488
+MFCC + PITCH + ENERGY | K=2 | Silhouette=0.3599
+ALL FEATURES | K=2 | Silhouette=0.1848
+
+Best feature set: MFCC + ENERGY
+Best K: 2
+Best silhouette: 0.3755
+Difference from V3: +0.0032
+Relative change: +0.87%

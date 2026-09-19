@@ -1,0 +1,20 @@
+VoxSplit Diarization V3
+======================
+
+Estimated speakers: 2
+Silhouette score: 0.3723
+Baseline score: 0.3007
+Difference: 0.0716
+
+SPEAKER_00
+   8.10s → 9.15s
+   9.87s → 12.12s
+   12.15s → 14.58s
+   15.33s → 16.83s
+   17.73s → 21.27s
+
+SPEAKER_01
+   21.75s → 25.68s
+   25.71s → 31.26s
+   31.56s → 36.44s
+

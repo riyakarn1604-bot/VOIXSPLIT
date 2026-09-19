@@ -1,0 +1,55 @@
+VOXSPLIT V7 TRAINING HISTORY
+============================
+
+Epoch 01/50 | Loss: 8.8128 | SupCon: 8.1408 | CE: 3.3600 | Train Acc: 8.33%
+Epoch 02/50 | Loss: 8.3711 | SupCon: 7.6980 | CE: 3.3659 | Train Acc: 6.25%
+Epoch 03/50 | Loss: 5.4233 | SupCon: 4.7407 | CE: 3.4128 | Train Acc: 6.25%
+Epoch 04/50 | Loss: 6.5111 | SupCon: 5.8206 | CE: 3.4525 | Train Acc: 4.17%
+Epoch 05/50 | Loss: 5.2198 | SupCon: 4.5681 | CE: 3.2582 | Train Acc: 16.67%
+Epoch 06/50 | Loss: 5.3132 | SupCon: 4.6291 | CE: 3.4209 | Train Acc: 8.33%
+Epoch 07/50 | Loss: 4.5031 | SupCon: 3.8295 | CE: 3.3677 | Train Acc: 8.33%
+Epoch 08/50 | Loss: 4.4786 | SupCon: 3.8424 | CE: 3.1809 | Train Acc: 4.17%
+Epoch 09/50 | Loss: 3.0021 | SupCon: 2.3658 | CE: 3.1817 | Train Acc: 8.33%
+Epoch 10/50 | Loss: 6.3755 | SupCon: 5.7522 | CE: 3.1161 | Train Acc: 16.67%
+Epoch 11/50 | Loss: 6.6386 | SupCon: 6.0415 | CE: 2.9857 | Train Acc: 14.58%
+Epoch 12/50 | Loss: 5.4697 | SupCon: 4.8558 | CE: 3.0694 | Train Acc: 10.42%
+Epoch 13/50 | Loss: 5.7380 | SupCon: 5.1271 | CE: 3.0547 | Train Acc: 14.58%
+Epoch 14/50 | Loss: 2.7504 | SupCon: 2.1343 | CE: 3.0806 | Train Acc: 4.17%
+Epoch 15/50 | Loss: 5.6872 | SupCon: 5.0461 | CE: 3.2057 | Train Acc: 2.08%
+Epoch 16/50 | Loss: 3.4648 | SupCon: 2.8851 | CE: 2.8986 | Train Acc: 20.83%
+Epoch 17/50 | Loss: 3.6438 | SupCon: 3.0738 | CE: 2.8500 | Train Acc: 27.08%
+Epoch 18/50 | Loss: 5.1549 | SupCon: 4.5371 | CE: 3.0890 | Train Acc: 10.42%
+Epoch 19/50 | Loss: 4.5790 | SupCon: 3.9803 | CE: 2.9933 | Train Acc: 8.33%
+Epoch 20/50 | Loss: 4.1323 | SupCon: 3.5375 | CE: 2.9743 | Train Acc: 16.67%
+Epoch 21/50 | Loss: 5.3360 | SupCon: 4.7550 | CE: 2.9049 | Train Acc: 14.58%
+Epoch 22/50 | Loss: 3.9010 | SupCon: 3.3294 | CE: 2.8582 | Train Acc: 14.58%
+Epoch 23/50 | Loss: 4.9407 | SupCon: 4.3597 | CE: 2.9046 | Train Acc: 6.25%
+Epoch 24/50 | Loss: 3.4632 | SupCon: 2.8923 | CE: 2.8548 | Train Acc: 20.83%
+Epoch 25/50 | Loss: 4.1855 | SupCon: 3.6111 | CE: 2.8718 | Train Acc: 18.75%
+Epoch 26/50 | Loss: 3.8936 | SupCon: 3.3047 | CE: 2.9441 | Train Acc: 12.50%
+Epoch 27/50 | Loss: 5.5964 | SupCon: 5.0002 | CE: 2.9811 | Train Acc: 18.75%
+Epoch 28/50 | Loss: 4.0999 | SupCon: 3.5322 | CE: 2.8388 | Train Acc: 20.83%
+Epoch 29/50 | Loss: 4.7751 | SupCon: 4.2133 | CE: 2.8090 | Train Acc: 16.67%
+Epoch 30/50 | Loss: 3.8292 | SupCon: 3.2715 | CE: 2.7887 | Train Acc: 22.92%
+Epoch 31/50 | Loss: 4.6395 | SupCon: 4.0645 | CE: 2.8752 | Train Acc: 18.75%
+Epoch 32/50 | Loss: 3.2064 | SupCon: 2.6616 | CE: 2.7241 | Train Acc: 29.17%
+Epoch 33/50 | Loss: 4.9791 | SupCon: 4.4249 | CE: 2.7715 | Train Acc: 25.00%
+Epoch 34/50 | Loss: 3.7213 | SupCon: 3.1515 | CE: 2.8492 | Train Acc: 25.00%
+Epoch 35/50 | Loss: 5.5236 | SupCon: 4.9534 | CE: 2.8514 | Train Acc: 20.83%
+Epoch 36/50 | Loss: 3.9996 | SupCon: 3.4409 | CE: 2.7935 | Train Acc: 22.92%
+Epoch 37/50 | Loss: 3.0197 | SupCon: 2.4587 | CE: 2.8050 | Train Acc: 20.83%
+Epoch 38/50 | Loss: 4.9269 | SupCon: 4.3137 | CE: 3.0661 | Train Acc: 8.33%
+Epoch 39/50 | Loss: 4.1957 | SupCon: 3.6090 | CE: 2.9334 | Train Acc: 25.00%
+Epoch 40/50 | Loss: 3.8638 | SupCon: 3.3083 | CE: 2.7774 | Train Acc: 22.92%
+Epoch 41/50 | Loss: 4.5787 | SupCon: 4.0181 | CE: 2.8027 | Train Acc: 18.75%
+Epoch 42/50 | Loss: 4.1425 | SupCon: 3.6256 | CE: 2.5845 | Train Acc: 25.00%
+Epoch 43/50 | Loss: 2.9538 | SupCon: 2.3825 | CE: 2.8566 | Train Acc: 25.00%
+Epoch 44/50 | Loss: 3.7233 | SupCon: 3.2058 | CE: 2.5876 | Train Acc: 25.00%
+Epoch 45/50 | Loss: 4.3193 | SupCon: 3.7511 | CE: 2.8409 | Train Acc: 12.50%
+Epoch 46/50 | Loss: 3.4412 | SupCon: 2.9290 | CE: 2.5612 | Train Acc: 39.58%
+Epoch 47/50 | Loss: 4.2664 | SupCon: 3.7264 | CE: 2.7001 | Train Acc: 29.17%
+Epoch 48/50 | Loss: 4.2989 | SupCon: 3.7785 | CE: 2.6023 | Train Acc: 29.17%
+Epoch 49/50 | Loss: 3.8012 | SupCon: 3.2977 | CE: 2.5176 | Train Acc: 31.25%
+Epoch 50/50 | Loss: 3.6887 | SupCon: 3.2063 | CE: 2.4120 | Train Acc: 37.50%
+
+Best training loss: 2.750425
